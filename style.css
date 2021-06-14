@@ -1,0 +1,42 @@
+
+html {
+  height:100%;
+}
+
+body{
+  /* background-color: #40826D; */
+  background-image:linear-gradient( #40826D, #FFFDD0) ;
+  background-repeat: no-repeat;
+  color: rgb(150, 53, 150);
+}
+
+h1{
+  font-family: 'Viaoda Libre', cursive;
+}
+
+main{
+  background: rgba(255, 255, 255, 0.6);
+  padding: 10px 15px;
+  box-shadow: 10px 15px #888888;
+}
+
+p{
+  text-align: center;
+  font-family: monospace;
+}
+
+#definition{
+  color: red;
+}
+
+.gold-border{
+  border: 2px solid gold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
